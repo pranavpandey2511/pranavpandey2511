@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there, I'm Pranav ![Wave](https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif)
 
 <!--
 **pranavpandey2511/pranavpandey2511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
